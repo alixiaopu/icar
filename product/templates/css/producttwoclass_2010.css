@@ -1,0 +1,26 @@
+.producttwoclass_2010{
+	width: 100%; 
+}
+
+.producttwoclass_2010 .producttwoclass_top{ 
+	height:30px;
+	color: #999999;
+	cursor: pointer;
+	background:url(../images/ttbg.jpg) 0px 0px no-repeat;  
+}
+
+.producttwoclass_2010 .producttwoclass_top a{
+	color: #505050;
+	height:30px;
+	font:14px/20px 'Microsoft YaHei','SimSun',Arial,Sans-Serif;
+	padding-left:38px;
+	text-decoration: none;
+}
+
+.producttwoclass_2010 .producttwoclass_top a:visited{
+	color: #505050;
+}
+
+.producttwoclass_2010 .producttwoclass_top a:hover{ 
+	color: #ff6600;
+}

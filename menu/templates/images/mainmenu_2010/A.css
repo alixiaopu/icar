@@ -1,0 +1,70 @@
+
+/*=========À¸Ä¿²Ëµ¥===========*/
+
+div#menu_2010	{
+    width:100%;
+	height:46px;
+    margin:0px;
+	padding:0px;
+}
+
+div#mainmenu_2010	{
+	margin-left:6px;
+	padding:0;
+    background: url(middle.jpg) repeat-x;
+}
+
+div#menu_2010 .mainmenuleft{
+	margin:0;
+	padding:0;
+	float:left;
+	width:27px;
+	height:46px;
+	background: url(left.jpg) no-repeat;
+}
+
+div#menu_2010 .mainmenuright{
+	margin:0;
+	float:right;
+	width:22px;
+	height:46px;
+	background: url(right.jpg) no-repeat;
+}
+
+div#mainmenu_2010 ul {
+    height: 46px;
+    line-height: 46px;
+    overflow: hidden;
+    margin: 0 3px; 
+}
+
+div#mainmenu_2010 li{
+    float: left;
+    display: inline;
+    margin: 0px 0 0 -2px;
+    padding: 8px 4px 0 6px;
+    background: url(cut.jpg) no-repeat right;
+}
+
+div#mainmenu_2010 a{
+    display: block;
+    width: 100px;
+    text-align: center;
+    font:14px/38px 'Microsoft YaHei','SimSun',Arial,Sans-Serif;
+}
+
+div#mainmenu_2010 a:link,div#mainmenu_2010 a:visited{
+    color: #fff;
+	text-decoration: none;
+}
+
+div#mainmenu_2010 a:hover,div#mainmenu_2010 a:active{
+    color: #fff;
+	text-decoration:underline;
+}
+
+div#mainmenu_2010 a.current{
+    color: #fff;
+    font-weight: bold;
+	text-decoration: none;
+}

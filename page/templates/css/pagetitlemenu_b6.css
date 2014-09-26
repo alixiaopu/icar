@@ -1,0 +1,27 @@
+div.titlemenu_b6{
+margin:0;
+padding:0;
+width:180px;
+}
+
+div.titlemenu_b6 a.titlemenu_b6:link,div.titlemenu_b6 a.titlemenu_b6:visited,div.titlemenu_b6 a.titlemenu_b6:active{
+display:block;
+color: #505050; 
+text-decoration: none;
+font:12px/38px Verdana, Arial, Helvetica, sans-serif;
+text-align:center;
+padding-left:40px;
+background:url(../images/titlemenu_b6.png) 0px 0px no-repeat;
+margin-bottom:2px;
+}
+
+div.titlemenu_b6 a.titlemenu_b6:hover{
+display:block;
+color: #ff6600; 
+text-decoration: none;
+font:12px/38px Verdana, Arial, Helvetica, sans-serif;
+text-align:center;
+padding-left:40px;
+background:url(../images/titlemenu_b6.png) 0px -40px no-repeat;
+margin-bottom:2px;
+}

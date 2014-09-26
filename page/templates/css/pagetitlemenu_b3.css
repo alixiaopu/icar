@@ -1,0 +1,27 @@
+div.titlemenu_b3{
+margin:0;
+padding:0;
+width:175px;
+}
+
+div.titlemenu_b3 a.titlemenu_b3:link,div.titlemenu_b3 a.titlemenu_b3:visited,div.titlemenu_b3 a.titlemenu_b3:active{
+display:block;
+color: #505050; 
+text-decoration: none;
+font:14px/47px 'Microsoft YaHei','SimSun',Arial,Sans-Serif;
+text-align:center;
+padding-left:39px;
+background:url(../images/titlemenu_b3.png) 0px 0px no-repeat;
+margin-bottom:1px;
+}
+
+div.titlemenu_b3 a.titlemenu_b3:hover{
+display:block;
+color: #505050; 
+text-decoration: none;
+font:14px/47px 'Microsoft YaHei','SimSun',Arial,Sans-Serif;
+text-align:center;
+padding-left:39px;
+background:url(../images/titlemenu_b3.png) 0px -51px no-repeat;
+margin-bottom:1px;
+}
